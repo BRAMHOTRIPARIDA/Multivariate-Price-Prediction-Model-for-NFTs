@@ -12,7 +12,4 @@ Art-759229-(2017-2021)
 Games-1048255-(2019-2021)
 Collectibles-1045518-(2020-2021)
 
-
-
-
-![image](https://user-images.githubusercontent.com/26669836/207477293-38e555b4-6cf5-4a44-b509-898588639ac9.png)
+![image](https://user-images.githubusercontent.com/26669836/207477526-07443231-1b2d-4651-9157-114331286b50.png)
