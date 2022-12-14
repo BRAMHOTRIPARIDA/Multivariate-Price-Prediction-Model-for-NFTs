@@ -6,11 +6,7 @@ Estimated NFT Collections prices by harnessing market indicators such as Google 
 Dataset : OpenSea API
 The dataset is divided into categories - Arts/Games/Collectibles
 
-Category - DataCount(#rows)-Years
-----------------------------------
-Art-759229-(2017-2021)
-Games-1048255-(2019-2021)
-Collectibles-1045518-(2020-2021)
+![image](https://user-images.githubusercontent.com/26669836/207478222-ef536d90-aa9d-429c-8340-9bb1f913219e.png)
 
 
 ![image](https://user-images.githubusercontent.com/26669836/207477736-37e6773e-f2da-4063-bb23-8541a6295240.png)
